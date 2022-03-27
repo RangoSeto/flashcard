@@ -1,0 +1,39 @@
+body{
+	background-image: url("https://wallpapercave.com/wp/wp2016145.jpg");
+}
+
+h2{
+	text-align: center;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 50px;
+	color: #1b2536;
+	
+	border-bottom: 3px dashed orange;
+}
+
+.container{
+	margin: 50px 10px;
+	text-align:center;
+}
+
+a{
+	border:3px solid #c024f0;
+	margin: 20px 20px 50px 20px;
+	padding: 15px 30px;
+	line-height: 90px;
+	border-radius: 10px;
+
+	font-size: 25px;
+	font-family: 'Lobster', cursive;
+	text-decoration: none;
+
+	background: linear-gradient(-45deg,#05f53d,#f58d05);
+
+	color: #f5050d;
+}
+
+a:hover{
+	background-color: #f52f1d;
+	color: #5fe6f5;
+}
+
